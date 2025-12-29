@@ -1,2 +1,2 @@
 # Robust-RGB-D-Semantic-Segmentation
-Robust RGB-D Semantic Segmentation Based on Subspace Projection Fusion and Multi-operation Feature Collaboration
+ we propose a robust RGB-D semantic segmentation framework based on subspace projection fusion and multi-operation feature collaboration.  Extensive experiments are conducted on the NYU-Depth V2 and SUN-RGBD datasets, which demonstrate the effectiveness of our framework. It achieves mIoU scores of 58.5 and 53.3 on the two datasets, respectively, demonstrating its effectiveness and superiority over state-of-the-art methods.
